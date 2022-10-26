@@ -1,0 +1,4 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"PetStoreFunctional","GET Store Inventory","GET Inventory","restrequest","OK","","26-Oct-2022 15_21",
+"PetStoreFunctional","GET Store Inventory","Place Store Order","restrequest","OK","","26-Oct-2022 15_21",
+"PetStoreFunctional","GET Store Inventory","Delete Store Entry","restrequest","OK","","26-Oct-2022 15_21",
